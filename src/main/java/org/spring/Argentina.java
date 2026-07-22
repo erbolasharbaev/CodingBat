@@ -2,6 +2,6 @@ package org.spring;
 
 public class Argentina {
     public static void main(String[] args) {
-        System.out.println(" bye bye Argentina");
+        System.out.println("Argentina");
     }
 }
